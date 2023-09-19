@@ -19,5 +19,11 @@ int main()
         }
     }
 
+    // if(num % 2 == 0){
+    //     printf("%d est un nombre premier", num);
+    // }else{
+    //     printf("%d est un nombre non premier", num);
+    // }
+
     return 0;
 }
