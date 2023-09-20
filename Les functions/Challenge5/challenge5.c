@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int permuter(int num1, int num2)
+void permuter(int num1, int num2)
 {
                         //exemple x = 4 et y = 5
     num1 = num1 + num2; // x = 4 + 5 = 9;
